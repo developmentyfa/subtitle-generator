@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+*.db
+*.pkl
+*.h5
+*.hdf5
+*.tmp
+*.bak
+*.swp
+*.swo
+*.env
+.env
+venv/
+ENV/
+.envrc
+# VSCode/PyCharm
+.vscode/
+.idea/
+*.iml
+# Jupyter
+.ipynb_checkpoints
+# MacOS
+.DS_Store
+# Windows
+Thumbs.db
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+# SRT/Media
+*.srt
+*.mp4
+*.wav
+*.mp3
+*.mkv
+*.mov
+# Temporary
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+# Git
+.git/
+
